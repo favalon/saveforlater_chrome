@@ -9,5 +9,5 @@ This extension can save sites that you wish to use later. If the url is an image
 if any problem or suggestion please contact me by: 
 - email: bleedavalon@gmail.com
 - wechat: zixiaoyu9
-- github: 
+- github: https://github.com/favalon/saveforlater_chrome
 
